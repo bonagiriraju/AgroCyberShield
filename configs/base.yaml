@@ -1,0 +1,18 @@
+seed: 42
+output_dir: outputs
+device: auto
+classes: [Normal, DoS, Injection, Botnet, Malware]
+sequence:
+  length: 20
+  stride: 5
+  label_strategy: last_timestep
+  drop_incomplete: true
+preprocessing:
+  correlation_threshold: 0.95
+  pca_variance: 0.95
+  upper_quantile: 0.99
+  lower_quantile: null
+  use_pca: true
+  add_missing_indicators: true
+balancing:
+  method: weighted_sampler

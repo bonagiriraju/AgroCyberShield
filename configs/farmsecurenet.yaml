@@ -1,0 +1,15 @@
+model:
+  conv_channels: [64, 128]
+  kernels: [5, 3]
+  lstm_hidden: 128
+  attention_dim: 128
+  dense_dims: [128, 64]
+  dropout: 0.30
+training:
+  epochs: 100
+  batch_size: 64
+  learning_rate: 0.001
+  weight_decay: 0.00001
+  patience: 10
+  gradient_clip: 5.0
+  monitor: macro_f1

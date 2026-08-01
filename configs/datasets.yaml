@@ -1,0 +1,13 @@
+datasets:
+  ton_iot:
+    raw_dir: data/raw/ton_iot
+    timestamp_candidates: [timestamp, ts, date, time]
+    label_candidates: [label, type, attack, category]
+    group_candidates: [device_id, device, source, sensor, file_id]
+  iot23:
+    raw_dir: data/raw/iot23
+    timestamp_candidates: [ts, timestamp, start_time, time]
+    label_candidates: [label, detailed_label, attack, category]
+    group_candidates: [scenario, capture, uid, file_id]
+  cicids2017:
+    raw_dir: data/raw/cicids2017

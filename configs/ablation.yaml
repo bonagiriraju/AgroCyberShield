@@ -1,0 +1,7 @@
+variants:
+  full: {}
+  no_attention: {attention: false}
+  no_bilstm: {bilstm: false}
+  no_cnn: {cnn: false}
+  no_pca: {use_pca: false}
+  no_balancing: {balancing: none}
