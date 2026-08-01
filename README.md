@@ -1,4 +1,3 @@
-Zenodo DOI: 10.5281/zenodo.21737432
 Zenodo URL: https://doi.org/10.5281/zenodo.21737432
 # AgroCyberShield
 
