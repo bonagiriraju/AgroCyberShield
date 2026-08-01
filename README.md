@@ -821,7 +821,7 @@ The implementation of AgroCyberShield and FarmSecureNet is available through thi
 **GitHub Repository:**
 
 ```text
-https://github.com/USERNAME/AgroCyberShield
+https://github.com/USERNAME/AgroCyberShield](https://github.com/bonagiriraju/AgroCyberShield)
 ```
 
 **Archived Release:**
