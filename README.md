@@ -1,4 +1,4 @@
-[https://doi.org/10.5281/zenodo.21737432](https://doi.org/10.5281/zenodo.21737432)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21737432.svg)](https://doi.org/10.5281/zenodo.21737432)
 # AgroCyberShield
 
 ## A Reproducible FarmSecureNet Implementation for Cross-Domain IoT Intrusion Detection in Smart Farming Networks
