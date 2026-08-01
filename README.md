@@ -1,3 +1,5 @@
+Zenodo DOI: 10.5281/zenodo.21737432
+Zenodo URL: https://doi.org/10.5281/zenodo.21737432
 # AgroCyberShield
 
 ## A Reproducible FarmSecureNet Implementation for Cross-Domain IoT Intrusion Detection in Smart Farming Networks
@@ -806,8 +808,8 @@ After the Zenodo release is created, add the software citation:
   author    = {Raju, B. and collaborators},
   year      = {2026},
   publisher = {Zenodo},
-  doi       = {INSERT_ZENODO_DOI},
-  url       = {INSERT_ZENODO_URL}
+  doi       = {10.5281/zenodo.21737432},
+  url       = {https://doi.org/10.5281/zenodo.21737432}
 }
 ```
 
@@ -826,8 +828,8 @@ https://github.com/USERNAME/AgroCyberShield
 **Archived Release:**
 
 ```text
-Zenodo DOI: INSERT_ZENODO_DOI
-Zenodo URL: INSERT_ZENODO_URL
+Zenodo DOI: 10.5281/zenodo.21737432
+Zenodo URL: https://doi.org/10.5281/zenodo.21737432
 ```
 
 Replace these placeholders after publishing the repository and creating the Zenodo archive.
